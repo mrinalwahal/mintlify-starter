@@ -35,7 +35,6 @@
                 "group": "Jobs",
                 "expanded": false,
                 "pages": [
-                  "work/index",
                   "jobs/cnb",
                   "jobs/argonaut",
                   "jobs/locale"
