@@ -35,13 +35,13 @@
           {
             "group": "Experience",
             "pages": [
-              "work"
+              "work/index"
             ]
           },
           {
             "group": "Jobs",
             "pages": [
-              "work/argonaut"
+              "jobs/argonaut"
             ]
           }
         ]
