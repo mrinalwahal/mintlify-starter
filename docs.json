@@ -37,12 +37,14 @@
           {
             "item": "X / Twitter",
             "icon": "x",
-            "href": "https://x.com/MrinalWahal"
+            "href": "https://x.com/MrinalWahal",
+            "description": "Bashing the government."
           },
           {
             "item": "Instagram",
             "icon": "instagram",
-            "href": "https://instagram.com/mrinalwahal"
+            "href": "https://instagram.com/mrinalwahal",
+            "description": ""
           },
           {
             "item": "Github",
