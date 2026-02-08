@@ -42,6 +42,18 @@
                   "jobs/oversight",
                   "jobs/instantpost"
                 ]
+              },
+              {
+                "group": "Projects",
+                "expanded": false,
+                "pages": [
+                  "jobs/cnb",
+                  "jobs/argonaut",
+                  "jobs/locale",
+                  "jobs/nhost",
+                  "jobs/oversight",
+                  "jobs/instantpost"
+                ]
               }
             ]
           }
