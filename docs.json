@@ -26,37 +26,41 @@
               "books",
               "papers"
             ]
+          },
+          {
+            "group": "Work",
+            "pages": [
+              "work/index",
+              "jobs",
+              "projects"
+            ]
           }
         ]
-      },
-      {
-        "tab": "Work",
-        "dropdowns": [
-      {
-        "dropdown": "Links",
-        "icon": "book-open",
-        "pages": [
-          "work/index",
-          "jobs"
-        ]
-      },
-      {
-        "dropdown": "API reference",
-        "icon": "square-terminal",
-        "pages": [
-          "api-reference/get",
-          "api-reference/post",
-          "api-reference/delete"
-        ]
-      },
-      {
-        "dropdown": "Blog",
-        "href": "https://external-link.com/blog"
-      }
-    ]
       }
     ],
     "global": {
+      "dropdowns": [
+      {
+        "dropdown": "X",
+        "icon": "x",
+        "href": "https://x.com/MrinalWahal"
+      },
+      {
+        "dropdown": "Instagram",
+        "icon": "instagram",
+        "href": "https://instagram.com/mrinalwahal"
+      },
+      {
+        "dropdown": "Github",
+        "icon": "github",
+        "href": "https://github.com/MrinalWahal"
+      },
+      {
+        "dropdown": "LinkedIn",
+        "icon": "linkedin",
+        "href": "https://linkedin.com/in/wahal"
+      }
+    ],
       "anchors": [
         {
           "anchor": "Resume",
