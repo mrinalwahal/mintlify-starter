@@ -38,23 +38,13 @@
         ]
       },
       {
-        "tab": "Developer tools",
-        "icon": "square-terminal",
+        "tab": "Socials",
+        "icon": "social",
         "menu": [
           {
-            "item": "API reference",
-            "icon": "rocket",
-            "groups": [
-              {
-                "group": "Core endpoints",
-                "icon": "square-terminal",
-                "pages": [
-                  "api-reference/get",
-                  "api-reference/post",
-                  "api-reference/delete"
-                ]
-              }
-            ]
+            "item": "X / Twitter",
+            "icon": "x",
+            "href": "https://x.com/MrinalWahal"
           },
           {
             "item": "SDKs",
