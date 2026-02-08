@@ -74,7 +74,7 @@
         {
           "anchor": "Resume",
           "href": "/static/Resume.pdf",
-          "icon": "paper"
+          "icon": "file-pdf"
         },
         {
           "anchor": "Blog",
