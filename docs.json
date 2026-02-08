@@ -10,10 +10,7 @@
   },
   "favicon": "wahal",
   "navigation": {
-    "tabs": [
-      {
-        "tab": "Profile",
-        "groups": [
+    "groups": [
           {
             "group": "About Me",
             "pages": [
@@ -27,31 +24,7 @@
               "papers"
             ]
           }
-        ]
-      },
-      {
-        "tab": "Work",
-        "groups": [
-          {
-            "group": "Experience",
-            "pages": [
-              "work/index"
-            ]
-          },
-          {
-            "group": "Jobs",
-            "pages": [
-              "jobs/cnb",
-              "jobs/argonaut",
-              "jobs/locale",
-              "jobs/nhost",
-              "jobs/oversight",
-              "jobs/instantpost"
-            ]
-          }
-        ]
-      }
-    ],
+        ],
     "global": {
       "anchors": [
         {
