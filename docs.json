@@ -2,6 +2,7 @@
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
   "name": "Mrinal Wahal",
+  "description": "Portfolio and writings of Mrinal Wahal.",
   "colors": {
     "primary": "#1da1f2",
     "light": "#1da1f2",
@@ -100,6 +101,42 @@
       "instagram": "https://instagram.com/mrinalwahal",
       "github": "https://github.com/MrinalWahal",
       "linkedin": "https://linkedin.com/in/wahal"
-    }
+    },
+    "links": [
+      {
+        "header": "Resources",
+        "items": [
+          {
+            "label": "Customers",
+            "href": "https://example.com/customers"
+          },
+          {
+            "label": "Enterprise",
+            "href": "https://example.com/enterprise"
+          },
+          {
+            "label": "Request Preview",
+            "href": "https://example.com/preview"
+          }
+        ]
+      },
+      {
+        "header": "Company",
+        "items": [
+          {
+            "label": "Careers",
+            "href": "https://example.com/careers"
+          },
+          {
+            "label": "Blog",
+            "href": "https://example.com/blog"
+          },
+          {
+            "label": "Privacy Policy",
+            "href": "https://example.com/legal/privacy"
+          }
+        ]
+      }
+    ]
   }
 }
