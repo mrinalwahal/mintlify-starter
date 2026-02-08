@@ -33,12 +33,11 @@
         "tab": "Work",
         "dropdowns": [
       {
-        "dropdown": "Documentation",
+        "dropdown": "Links",
         "icon": "book-open",
         "pages": [
-          "quickstart",
-          "development",
-          "navigation"
+          "work/index",
+          "jobs"
         ]
       },
       {
