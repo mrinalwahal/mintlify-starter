@@ -1,13 +1,13 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "linden",
+  "theme": "mint",
   "name": "Mrinal Wahal",
   "colors": {
     "primary": "#1da1f2",
     "light": "#1da1f2",
     "dark": "#1da1f2"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "wahal",
   "navigation": {
     "tabs": [
       {
