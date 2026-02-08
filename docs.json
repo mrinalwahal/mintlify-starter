@@ -23,9 +23,9 @@
             ]
           },
           {
-            "group": "Customization",
+            "group": "Readings",
             "pages": [
-              "essentials/settings",
+              "books",
               "essentials/navigation"
             ]
           },
