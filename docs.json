@@ -81,14 +81,14 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Resume",
-          "href": "static/Resume.pdf",
-          "icon": "file-pdf"
-        },
-        {
-          "anchor": "Blog",
+          "anchor": "Blog / Substack",
           "href": "https://wahal.substack.com",
           "icon": "bars-staggered"
+        },
+        {
+          "anchor": "Resume",
+          "href": "/static/resume.pdf",
+          "icon": "file-pdf"
         }
       ]
     }
