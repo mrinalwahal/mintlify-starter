@@ -75,6 +75,14 @@
       {
         "label": "Email",
         "href": "mailto:mrinal@wah.al"
+      },
+      {
+        "label": "Twitter",
+        "href": "https://twitter.com/MrinalWahal"
+      },
+      {
+        "label": "Instagram",
+        "href": "https://instagram.com/mrinalwahal"
       }
     ],
     "primary": {
