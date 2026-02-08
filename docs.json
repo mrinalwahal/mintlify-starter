@@ -17,8 +17,7 @@
           {
             "group": "About Me",
             "pages": [
-              "index",
-              "work"
+              "index"
             ]
           },
           {
@@ -36,7 +35,7 @@
           {
             "group": "Experience",
             "pages": [
-              "work/index"
+              "work"
             ]
           },
           {
