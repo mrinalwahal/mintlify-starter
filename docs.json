@@ -41,7 +41,11 @@
           {
             "group": "Jobs",
             "pages": [
-              "jobs/argonaut"
+              "jobs/locale",
+              "jobs/argonaut",
+              "jobs/nhost",
+              "jobs/oversight",
+              "jobs/instantpost"
             ]
           }
         ]
