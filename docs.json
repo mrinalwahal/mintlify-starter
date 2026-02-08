@@ -31,8 +31,14 @@
         ]
       },
       {
-        "tab": "API reference",
+        "tab": "Work",
         "groups": [
+          {
+            "group": "Jobs",
+            "pages": [
+              "work/argonaut"
+            ]
+          },
           {
             "group": "API documentation",
             "pages": [
