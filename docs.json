@@ -13,7 +13,7 @@
     "tabs": [
       {
         "tab": "Profile",
-        "icon": "user-astronaut",
+        "icon": "user",
         "groups": [
           {
             "group": "About Me",
@@ -37,7 +37,10 @@
                 "pages": [
                   "jobs/cnb",
                   "jobs/argonaut",
-                  "jobs/locale"
+                  "jobs/locale",
+                  "jobs/nhost",
+                  "jobs/oversight",
+                  "jobs/instantpost"
                 ]
               }
             ]
@@ -79,7 +82,7 @@
       "anchors": [
         {
           "anchor": "Resume",
-          "href": "/static/Resume.pdf",
+          "href": "static/Resume.pdf",
           "icon": "file-pdf"
         },
         {
