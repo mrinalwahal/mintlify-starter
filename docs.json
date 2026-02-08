@@ -30,12 +30,17 @@
           },
           {
             "group": "Work",
-            "expanded": false,
             "pages": [
-              "work/index",
-              "jobs/cnb",
-              "jobs/argonaut",
-              "jobs/locale"
+              {
+                "group": "Jobs",
+                "expanded": false,
+                "pages": [
+                  "work/index",
+                  "jobs/cnb",
+                  "jobs/argonaut",
+                  "jobs/locale"
+                ]
+              }
             ]
           }
         ]
