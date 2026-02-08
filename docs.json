@@ -13,6 +13,7 @@
     "tabs": [
       {
         "tab": "Profile",
+        "icon": "user-astronaut",
         "groups": [
           {
             "group": "About Me",
@@ -26,20 +27,12 @@
               "books",
               "papers"
             ]
-          },
-          {
-            "group": "Work",
-            "pages": [
-              "work/index",
-              "jobs",
-              "projects"
-            ]
           }
         ]
       },
       {
         "tab": "Socials",
-        "icon": "social",
+        "icon": "at",
         "menu": [
           {
             "item": "X / Twitter",
@@ -47,41 +40,24 @@
             "href": "https://x.com/MrinalWahal"
           },
           {
-            "item": "SDKs",
-            "icon": "code",
-            "description": "SDKs are used to interact with the API.",
-            "pages": [
-              "sdk/fetch",
-              "sdk/create",
-              "sdk/delete"
-            ]
+            "item": "Instagram",
+            "icon": "instagram",
+            "href": "https://instagram.com/mrinalwahal"
+          },
+          {
+            "item": "Github",
+            "icon": "github",
+            "href": "https://github.com/MrinalWahal"
+          },
+          {
+            "item": "LinkedIn",
+            "icon": "linkedin",
+            "href": "https://linkedin.com/in/wahal"
           }
         ]
       }
     ],
     "global": {
-      "dropdowns": [
-      {
-        "dropdown": "X / Twitter",
-        "icon": "x",
-        "href": "https://x.com/MrinalWahal"
-      },
-      {
-        "dropdown": "Instagram",
-        "icon": "instagram",
-        "href": "https://instagram.com/mrinalwahal"
-      },
-      {
-        "dropdown": "Github",
-        "icon": "github",
-        "href": "https://github.com/MrinalWahal"
-      },
-      {
-        "dropdown": "LinkedIn",
-        "icon": "linkedin",
-        "href": "https://linkedin.com/in/wahal"
-      }
-    ],
       "anchors": [
         {
           "anchor": "Resume",
@@ -92,26 +68,6 @@
           "anchor": "Blog",
           "href": "https://wahal.substack.com",
           "icon": "bars-staggered"
-        },
-        {
-          "anchor": "X / Twitter",
-          "href": "https://x.com/MrinalWahal",
-          "icon": "x"
-        },
-        {
-          "anchor": "Instagram",
-          "href": "https://instagram.com/mrinalwahal",
-          "icon": "instagram"
-        },
-        {
-          "anchor": "Github",
-          "href": "https://github.com/MrinalWahal",
-          "icon": "github"
-        },
-        {
-          "anchor": "LinkedIn",
-          "href": "https://linkedin.com/in/wahal",
-          "icon": "linkedin"
         }
       ]
     }
