@@ -10,7 +10,10 @@
   },
   "favicon": "wahal",
   "navigation": {
-    "groups": [
+    "tabs": [
+      {
+        "tab": "Profile",
+        "groups": [
           {
             "group": "About Me",
             "pages": [
@@ -24,7 +27,10 @@
               "papers"
             ]
           }
-        ],
+        ]
+      },
+      {
+        "tab": "Work",
         "dropdowns": [
       {
         "dropdown": "Documentation",
@@ -47,6 +53,8 @@
       {
         "dropdown": "Blog",
         "href": "https://external-link.com/blog"
+      }
+    ]
       }
     ],
     "global": {
