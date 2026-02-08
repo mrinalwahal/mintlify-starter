@@ -34,6 +34,12 @@
         "tab": "Work",
         "groups": [
           {
+            "group": "Experience",
+            "pages": [
+              "work/index"
+            ]
+          },
+          {
             "group": "Jobs",
             "pages": [
               "work/argonaut"
@@ -57,7 +63,7 @@
         {
           "anchor": "X / Twitter",
           "href": "https://x.com/MrinalWahal",
-          "icon": "twitter"
+          "icon": "x"
         },
         {
           "anchor": "Instagram",
