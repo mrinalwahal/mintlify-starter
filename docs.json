@@ -4,8 +4,8 @@
   "name": "Mrinal Wahal",
   "colors": {
     "primary": "#1da1f2",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "light": "#1da1f2",
+    "dark": "#1da1f2"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -79,7 +79,7 @@
         {
           "anchor": "Blog",
           "href": "https://wahal.substack.com",
-          "icon": "blog"
+          "icon": "bars-staggered"
         }
       ]
     }
