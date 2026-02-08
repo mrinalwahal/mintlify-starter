@@ -62,6 +62,26 @@
           "anchor": "Blog",
           "href": "https://wahal.substack.com",
           "icon": "bars-staggered"
+        },
+        {
+          "anchor": "X / Twitter",
+          "href": "https://x.com/MrinalWahal",
+          "icon": "twitter"
+        },
+        {
+          "anchor": "Instagram",
+          "href": "https://instagram.com/mrinalwahal",
+          "icon": "instagram"
+        },
+        {
+          "anchor": "Github",
+          "href": "https://github.com/MrinalWahal",
+          "icon": "github"
+        },
+        {
+          "anchor": "LinkedIn",
+          "href": "https://linkedin.com/in/wahal",
+          "icon": "linkedin"
         }
       ]
     }
@@ -75,14 +95,6 @@
       {
         "label": "Email",
         "href": "mailto:mrinal@wah.al"
-      },
-      {
-        "label": "Twitter",
-        "href": "https://twitter.com/MrinalWahal"
-      },
-      {
-        "label": "Instagram",
-        "href": "https://instagram.com/mrinalwahal"
       }
     ],
     "primary": {
