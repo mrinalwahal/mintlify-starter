@@ -3,12 +3,30 @@
   "theme": "willow",
   "name": "Mrinal Wahal",
   "description": "Portfolio and writings of Mrinal Wahal.",
+  "seo": {
+    "metatags": {
+      "og:title": "Mrinal Wahal - Portfolio and Writings",
+      "og:description": "Explore the portfolio of Mrinal Wahal.",
+      "og:image": "https://wah.al/assets/profile.png",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Mrinal Wahal - Portfolio and Writings",
+      "twitter:description": "Explore the portfolio of Mrinal Wahal.",
+      "twitter:image": "https://wah.al/assets/profile.png"
+    },
+    "indexing": "navigable"
+  },
   "colors": {
     "primary": "#1da1f2",
     "light": "#1da1f2",
     "dark": "#1da1f2"
   },
-  "favicon": "Mrinal Wahal",
+  "appearance": {
+    "default": "system",
+    "strict": false
+  },
+  "background": {
+    "decoration": "grid"
+  },
   "navigation": {
     "tabs": [
       {
@@ -22,17 +40,24 @@
             ]
           },
           {
-            "group": "Readings",
+            "group": "Inputs",
             "pages": [
-              "books",
-              "papers"
+              "inputs/books",
+              "inputs/papers"
             ]
           },
           {
-            "group": "Writings",
+            "group": "Outputs",
             "pages": [
-              "talks",
-              "publications"
+              "output/talks",
+              {
+                "group": "Publications",
+                "expanded": false,
+                "pages": [
+                  "output/papers",
+                  "output/blogs"
+                ]
+              }
             ]
           },
           {
@@ -106,12 +131,14 @@
           {
             "item": "Resume",
             "icon": "file-pdf",
-            "href": "https://wah.al/assets/resume.pdf"
+            "href": "https://wah.al/assets/resume.pdf",
+            "description": "Updated as of Feb 2024."
           },
           {
             "item": "Profile Image",
-            "icon": "image",
-            "href": "https://wah.al/assets/profile.jpg"
+            "icon": "image-portrait",
+            "href": "https://wah.al/assets/profile.png",
+            "description": "For sending rishtas."
           }
         ]
       }
@@ -153,6 +180,7 @@
   },
   "footer": {
     "socials": {
+      "website": "https://wah.al",
       "x": "https://x.com/MrinalWahal",
       "instagram": "https://instagram.com/mrinalwahal",
       "github": "https://github.com/MrinalWahal",
