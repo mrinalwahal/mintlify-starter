@@ -8,11 +8,11 @@
     "light": "#1da1f2",
     "dark": "#1da1f2"
   },
-  "favicon": "wahal",
-  "banner": {
-    "content": "📍 gmt+5:30 / dilli / bangalore",
-    "dismissible": false 
+  "logo": {
+    "dark": "logo/text.svg",
+    "light": "logo/text.svg"
   },
+  "favicon": "wahal",
   "navigation": {
     "tabs": [
       {
@@ -35,11 +35,6 @@
           {
             "group": "Work",
             "pages": [
-              {
-                "anchor": "Resume",
-                "href": "/static/resume.pdf",
-                "icon": "file-pdf"
-              },
               {
                 "group": "Jobs",
                 "expanded": false,
