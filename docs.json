@@ -29,6 +29,13 @@
             ]
           },
           {
+            "group": "Writings",
+            "pages": [
+              "talks",
+              "publications"
+            ]
+          },
+          {
             "group": "Work",
             "pages": [
               {
