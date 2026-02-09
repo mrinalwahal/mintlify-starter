@@ -2,15 +2,15 @@
   "$schema": "https://mintlify.com/docs.json",
   "theme": "willow",
   "name": "Mrinal Wahal",
-  "description": "Portfolio and writings of Mrinal Wahal.",
+  "description": "Portfolio of Mrinal Wahal.",
   "seo": {
     "metatags": {
-      "og:title": "Mrinal Wahal - Portfolio and Writings",
-      "og:description": "Explore the portfolio of Mrinal Wahal.",
+      "og:title": "Mrinal Wahal",
+      "og:description": "Portfolio of Mrinal Wahal.",
       "og:image": "https://wah.al/assets/profile.png",
       "twitter:card": "summary_large_image",
-      "twitter:title": "Mrinal Wahal - Portfolio and Writings",
-      "twitter:description": "Explore the portfolio of Mrinal Wahal.",
+      "twitter:title": "Mrinal Wahal",
+      "twitter:description": "Portfolio of Mrinal Wahal.",
       "twitter:image": "https://wah.al/assets/profile.png"
     },
     "indexing": "navigable"
