@@ -9,6 +9,10 @@
     "dark": "#1da1f2"
   },
   "favicon": "wahal",
+  "banner": {
+    "content": "gmt+5:30 / dilli / bangalore",
+    "dismissible": true 
+  },
   "navigation": {
     "tabs": [
       {
@@ -86,6 +90,12 @@
             "icon": "linkedin",
             "href": "https://linkedin.com/in/wahal",
             "description": "I don't check this."
+          },
+          {
+            "item": "Email",
+            "icon": "envelope",
+            "href": "mailto:mrinal@wah.al",
+            "description": "Best way to approach me."
           }
         ]
       }
