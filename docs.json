@@ -52,7 +52,8 @@
                 "expanded": false,
                 "pages": [
                   "projects/oversight",
-                  "projects/pragyaan"
+                  "projects/pragyaan",
+                  "projects/envsecrets"
                 ]
               }
             ]
