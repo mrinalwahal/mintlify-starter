@@ -99,12 +99,12 @@
           {
             "item": "Resume",
             "icon": "file-pdf",
-            "href": "/assets/resume.pdf"
+            "href": "https://wah.al/assets/resume.pdf"
           },
           {
             "item": "Profile Image",
             "icon": "image",
-            "href": "/assets/profile.jpg"
+            "href": "https://wah.al/assets/profile.jpg"
           }
         ]
       }
