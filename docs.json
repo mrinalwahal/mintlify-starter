@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
-  "name": "wahal",
+  "theme": "willow",
+  "name": "Mrinal Wahal",
   "description": "Portfolio and writings of Mrinal Wahal.",
   "colors": {
     "primary": "#1da1f2",
@@ -12,7 +12,7 @@
     "dark": "logo/text.svg",
     "light": "logo/text.svg"
   },
-  "favicon": "wahal",
+  "favicon": "Mrinal Wahal",
   "navigation": {
     "tabs": [
       {
@@ -66,7 +66,7 @@
         "menu": [
           {
             "item": "X / Twitter",
-            "icon": "x",
+            "icon": "square-x-twitter",
             "href": "https://x.com/MrinalWahal",
             "description": "Bashing the government."
           },
