@@ -8,10 +8,6 @@
     "light": "#1da1f2",
     "dark": "#1da1f2"
   },
-  "logo": {
-    "dark": "logo/text.svg",
-    "light": "logo/text.svg"
-  },
   "favicon": "Mrinal Wahal",
   "navigation": {
     "tabs": [
