@@ -91,6 +91,22 @@
             "description": "Best way to approach me."
           }
         ]
+      },
+      {
+        "tab": "Assets",
+        "icon": "files",
+        "menu": [
+          {
+            "item": "Resume",
+            "icon": "file-pdf",
+            "href": "/assets/resume.pdf"
+          },
+          {
+            "item": "Profile Image",
+            "icon": "image",
+            "href": "/assets/profile.jpg"
+          }
+        ]
       }
     ],
     "global": {
@@ -99,11 +115,6 @@
           "anchor": "Blog / Substack",
           "href": "https://wahal.substack.com",
           "icon": "bars-staggered"
-        },
-        {
-          "anchor": "Resume",
-          "href": "https://envsecrets-f9eb5c92.mintlify.app/assets/resume.pdf",
-          "icon": "file-pdf"
         }
       ]
     }
