@@ -51,7 +51,8 @@
                 "group": "Projects",
                 "expanded": false,
                 "pages": [
-                  "projects/oversight"
+                  "projects/oversight",
+                  "projects/pragyaan"
                 ]
               }
             ]
