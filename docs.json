@@ -131,13 +131,13 @@
           {
             "item": "Resume",
             "icon": "file-pdf",
-            "href": "https://wah.al/assets/resume.pdf",
+            "href": "https://drive.google.com/file/d/1ce90LGzK8YrrulUlMNC1jLk7EwzsMzcO/view?usp=sharing",
             "description": "Updated as of Feb 2024."
           },
           {
             "item": "Profile Image",
             "icon": "image-portrait",
-            "href": "https://wah.al/assets/profile.png",
+            "href": "/assets/profile.png",
             "description": "For sending rishtas."
           }
         ]
