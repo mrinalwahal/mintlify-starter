@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "willow",
+  "theme": "aspen",
   "name": "Mrinal Wahal",
   "description": "Portfolio and writings of Mrinal Wahal.",
   "colors": {
@@ -57,7 +57,7 @@
         ]
       },
       {
-        "tab": "Socials",
+        "tab": "Handles",
         "icon": "at",
         "menu": [
           {
