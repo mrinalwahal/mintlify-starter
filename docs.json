@@ -10,8 +10,8 @@
   },
   "favicon": "wahal",
   "banner": {
-    "content": "gmt+5:30 / dilli / bangalore",
-    "dismissible": true 
+    "content": "📍 gmt+5:30 / dilli / bangalore",
+    "dismissible": false 
   },
   "navigation": {
     "tabs": [
