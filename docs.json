@@ -36,6 +36,11 @@
             "group": "Work",
             "pages": [
               {
+                "anchor": "Resume",
+                "href": "/static/resume.pdf",
+                "icon": "file-pdf"
+              },
+              {
                 "group": "Jobs",
                 "expanded": false,
                 "pages": [
