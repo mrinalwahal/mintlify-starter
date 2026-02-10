@@ -137,7 +137,7 @@
           {
             "item": "Profile Image",
             "icon": "image-portrait",
-            "href": "/assets/profile.png",
+            "href": "https://wah.al/assets/profile.png",
             "description": "For sending rishtas."
           }
         ]
