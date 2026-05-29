@@ -43,6 +43,7 @@
             "group": "Inputs",
             "pages": [
               "books",
+              "inputs/readings",
               "inputs/papers"
             ]
           },
