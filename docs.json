@@ -42,7 +42,7 @@
           {
             "group": "Inputs",
             "pages": [
-              "inputs/books",
+              "books",
               "inputs/papers"
             ]
           },
